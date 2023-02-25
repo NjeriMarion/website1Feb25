@@ -1,0 +1,107 @@
+body{
+    background-color: #eebefa; 
+}
+
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10%;
+    justify-content: first baseline;
+    color: black;
+
+    
+}
+.navigation{
+    color: black;
+    display: flex;
+    gap: 10%;
+ 
+}
+.main{
+    background-color: #f8f0fc;
+    height: 600px;
+    width: 1000px;
+    margin: 32px auto;
+    padding: 10px;
+    border-radius: 20px;
+
+    /* margin: 10%; */
+    /* border-style: solid; */
+
+}
+:nav a:link
+:nav a:visited{
+    color: black;
+    text-decoration: none;
+
+    
+}
+#button{
+    border-radius: 10%;
+    background-color: blueviolet;
+    padding: 20px 35px;
+}
+.right-Image{
+    position: absolute;
+    top: 16%;
+    left: 700px;
+    margin-right: 50%;
+    
+}
+.right-Image img{
+    border-radius:  20px;
+
+}
+.left-nav{
+    margin-left: 70%;
+
+}
+.artisan{
+    margin-left: 10%;
+
+}
+#login{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20%;
+    padding: 15px;
+    border: none;
+
+}
+/* .line{ 
+    border-bottom: #495057;
+    margin: 0 auto;
+
+} */
+.section1{
+    margin-left: 8%;
+    border-bottom: #495057;
+    margin: 0 auto;
+    font-size: larger;
+   
+
+}
+.third-div{
+    background-color:bisque;
+    width: 510px;
+}
+#fb{
+    border-radius: 20%;
+    padding: 5px;
+
+}
+#tw{
+    border-radius: 20%;
+    padding: 5px;
+}
+#ig{
+    border-radius: 20%;
+    padding: 5px;
+}
+.seconddiv{
+    margin-left: 5px;
+
+}
